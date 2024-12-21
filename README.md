@@ -49,9 +49,9 @@
 ### Для теста использовался Postman. 
 ### Headers
     ```
-    Authorization Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0ZXN0QGV4YW1wbGUuY29tIiwiaWF0IjoxNzM0NzIyOTU1LCJleHAiOjE3MzUzMjc3NTV9.UP_Je_ePOPcw2wJP631ukFkFqCTUP_cdFsPw8F2mMb4
+    Authorization: Bearer <JWT-TOKEN>
     ```
-    Content-Type application/json
+    Content-Type: application/json
  
 
 ### Auth
